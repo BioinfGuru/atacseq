@@ -1,5 +1,9 @@
 # Pipeline for ATAC-sequencing analysis
 
+## Workflow
+
+![alt text](https://image.ibb.co/hPZKLJ/preprocessing.png)
+
 ## Useful Links
 
 * [How ATAC-seq compares to DNase-seq and MNase-seq](http://www.the-scientist.com/?articles.view/articleNo/44772/title/Reveling-in-the-Revealed/)
