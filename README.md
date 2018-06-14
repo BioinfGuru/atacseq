@@ -1,5 +1,7 @@
 # Pipeline for ATAC-sequencing analysis
 
+This is a work in progress.
+
 ## Workflow
 
 ![alt text](https://image.ibb.co/hPZKLJ/preprocessing.png)
